@@ -1,0 +1,21 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  height: 300px;
+  width: 900px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  padding: 0;
+  margin: 0;
+}
+.headings {
+  width: 100%;
+  text-align: center;
+}
+.score{
+  color: blue;
+}
